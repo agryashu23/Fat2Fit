@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "958087087327",
+    "project_id": "fat2fit-d79d2",
+    "storage_bucket": "fat2fit-d79d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958087087327:android:809cf2acd9dff1f619956a",
+        "android_client_info": {
+          "package_name": "com.example.gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958087087327-re708080md6k2mmv0b0ng4op2barur2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gym",
+            "certificate_hash": "9cf47f778499f7f23b1d55bd452d4b3f809b4e84"
+          }
+        },
+        {
+          "client_id": "958087087327-1edj6p1tiqbhhbvnb4678mc6jldnm504.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgrzGIDjstZwNmpVQf-qphlIfNPL0SlcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958087087327-1edj6p1tiqbhhbvnb4678mc6jldnm504.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
